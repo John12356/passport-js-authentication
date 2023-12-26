@@ -3,7 +3,7 @@ require("dotenv").config();
 const GoogleStrategy = require("passport-google-oauth20").Strategy;
 const FacebookStrategy = require("passport-facebook").Strategy;
 const LocalStrategy = require("passport-local").Strategy;
-const authModel = require("./Models/Model");
+const authModel = require("./models/authModel");
 const bcrypt = require("bcrypt");
 
 const googleCredentials = {
