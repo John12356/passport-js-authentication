@@ -14,8 +14,8 @@ Passport.js is a popular authentication middleware for Node.js applications. It 
   - [GitHub](https://github.com/)
   - [VSCode](https://code.visualstudio.com/)
 
-# Getting Started
-## Prerequisites
+## Getting Started
+### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -55,7 +55,7 @@ npm start
 ## Disclaimer
 Use at your own risk; not a supported MongoDB product
 
-# Contributing
+## Contributing
 We appreciate your interest in contributing to our project! Whether you're a developer, designer, or enthusiast, we welcome your contributions. This guide outlines the process and guidelines for making your contributions.
 ## Getting Started
 
@@ -71,16 +71,20 @@ We appreciate your interest in contributing to our project! Whether you're a dev
 - Clearly describe the problem and provide any relevant error messages.
 - Include screenshots or code snippets if they help explain the issue.
 
-# License
 ## License
+### License
 
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-# Acknowledgments
+## Acknowledgments
 
 We greatly appreciate all contributions to this project. Contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Thank you for your support!
 
-# Thank You
+## Thank You
 
 We appreciate your interest in our project and hope that you find it useful. Your contributions and adherence to the project's license are valuable to us.
+
+## Feedback
+
+For any queries and improvements please reach out to johnmoorthi85131@gmail.com
