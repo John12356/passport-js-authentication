@@ -81,10 +81,12 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 We greatly appreciate all contributions to this project. Contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Thank you for your support!
 
+## Feedback
+
+For any queries and improvements please reach out to johnmoorthi85131@gmail.com
+
 ## Thank You
 
 We appreciate your interest in our project and hope that you find it useful. Your contributions and adherence to the project's license are valuable to us.
 
-## Feedback
 
-For any queries and improvements please reach out to johnmoorthi85131@gmail.com
